@@ -74,7 +74,7 @@ const products = [
     price: "£2.30",
     image: "./images/iced coffee.jpg",
     mayContainsNuts: false,
-    description: "A refreshing drink with your choice of milk",
+    description: "A refreshing drink with your choice of milk.",
   },
   {
     name: "Hot chocolate",
